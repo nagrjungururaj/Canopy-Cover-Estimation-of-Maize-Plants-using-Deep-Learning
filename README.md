@@ -10,7 +10,7 @@ The overall goal of the problem is to identify the Canopy Cover Percentage from 
 
 # Requirements (Note without these code wont run ! ) :
 
-Ananconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv-python
+Anaconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv-python
 
 # Setup : 
 
@@ -28,9 +28,9 @@ for example : set PYTHONPATH=C:\Desktop\models;C:\Desktop\models\research;C:\Des
 # Results : 
 The algorithm predicts a rise in the canopy cover through the progression of dates staring from 20 JUL 19 to 3 Aug 19 which is in sync with the theoritical assumption. The algorithm achieves the following root mean square errors for corresponding fields as below, 
 
-RMSE F1 : 0.36239708194589165
-RMSE F3 : 0.14613046722087242
-RMSE F7 : 0.9559942436130704
+RMSE F1 : 0.36239708194589165 \\ 
+RMSE F3 : 0.14613046722087242 \\
+RMSE F7 : 0.9559942436130704 \\
 
 Note that the RMSE for F7 is quite large due to the rapid growth and overlap of bounding boxes predicted from the algorithm for the end of a season of peak period.
   
