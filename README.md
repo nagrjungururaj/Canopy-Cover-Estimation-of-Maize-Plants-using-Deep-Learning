@@ -41,4 +41,4 @@ Note that the RMSE for F7 is quite large due to the rapid growth and overlap of 
 # Data Copyright : 
 
 (Very Important!)
-The image data is solely owned and distributed by #Digite Inc. and any usage could lead to severe voilations of company's copyright.
+The image data is solely owned and distributed by Digite Inc. and any usage could lead to severe voilations of company's copyright. For usage contact Digite Inc. (https://www.digite.com/)
