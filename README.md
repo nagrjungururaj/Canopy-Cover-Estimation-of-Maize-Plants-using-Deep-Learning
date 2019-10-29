@@ -3,7 +3,7 @@
 # Copyright : 
 
 (Very Important!)
-The image data is solely owned and distributed by Digite Inc. and any usage could lead to severe voilations of company's copyright. For usage contact Digite Inc. (https://www.digite.com/)
+The image data is solely owned and distributed by Digite Inc. and any usage could lead to severe voilations of company's copyright. For obtaining and usage of the data please contact Digite Inc. (https://www.digite.com/)
 
 # Goal : 
 The overall goal of the problem is to identify the Canopy Cover Percentage from a given picture / image using deep learning. Further, the problem has intermediate goals as below:  
