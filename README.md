@@ -12,12 +12,16 @@ The overall goal of the problem is to identify the Canopy Cover Percentage from 
 
 Anaconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv-python
 
-# Setup : 
+# Testing on your images
+1. Capture images from a maize field using a smartphone or drone
+2. Use labelImg tool to label your images. Tool can be found here : https://github.com/tzutalin/labelImg
+3. Place the images in 'images' folder under 'models'
+4. Trained model is already present in 'training' folder 
 
-1. Use labelImg tool to label your images. Tool can be found here : https://github.com/tzutalin/labelImg
-2. Download 'models' folder from repository
-3. Run this command corresponding to local path of your environment (Change the paths accordingly)
-for example : set PYTHONPATH=C:\Desktop\models;C:\Desktop\models\research;C:\Desktop\models\research\slim
+# Setup : 
+1. Go to models\research\object_detection
+2. Run this command corresponding to local path of your environment (Change the paths accordingly)
+for example : set PYTHONPATH=C:\Desktop\models;C:\Desktop\models\research;C:\Desktop\models\research\slim (wont run if not executed)
 
 # Run Sequence :
 1. Copy all .ipynb to 'models' folder before doing anything
@@ -33,4 +37,8 @@ RMSE F3 : 0.14613046722087242
 RMSE F7 : 0.9559942436130704  
 
 Note that the RMSE for F7 is quite large due to the rapid growth and overlap of bounding boxes predicted from the algorithm for the end of a season of peak period.
-  
+
+# Data Copyright : 
+
+(Very Important!)
+The image data is solely owned and distributed by #Digite Inc. and any usage could lead to severe voilations of company's copyright.
