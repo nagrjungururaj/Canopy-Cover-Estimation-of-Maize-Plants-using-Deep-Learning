@@ -18,11 +18,14 @@ The overall goal of the problem is to identify the Canopy Cover Percentage from 
 Anaconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv-python
 
 # Testing on your images
-1. Capture images from a maize field using a smartphone or drone
-2. Use labelImg tool to label your images. Tool can be found here : https://github.com/tzutalin/labelImg
-3. Place the images in 'images' folder under 'models'
-4. Trained model is already present in 'training' folder
-5. Place the images you want to test from your set in 'test_img' folder
+1. Download models.zip and extract models folder.
+2. Capture images from a maize field using a smartphone or drone
+3. Use labelImg tool to label your images. Tool can be found here : https://github.com/tzutalin/labelImg
+4. Place the images in 'images' folder under 'models\research\object_detection'
+5. Generate the labels using the command python xml_to_csv
+6. The train and test labels will be in 'images' folder
+7. Trained model is already present in 'training' folder
+8. Place the images you want to test from your set in 'test_img' folder
 
 # Setup : 
 1. Go to models\research\object_detection
