@@ -6,8 +6,8 @@
 The image data is solely owned and distributed by Digite Inc. and any usage could lead to severe voilations of company's copyright. For usage contact Digite Inc. (https://www.digite.com/)
 
 # Goal : 
-The overall goal of the problem is to identify the Canopy Cover Percentage from a given picture / image using deep learning. Further, the problem has intermediate goals as below:
-⦁	From a given image, the designed algorithm is able to differentiate a maize plant from a weed plant
+The overall goal of the problem is to identify the Canopy Cover Percentage from a given picture / image using deep learning. Further, the problem has intermediate goals as below:  
+⦁	From a given image, the designed algorithm is able to differentiate a maize plant from a weed plant  
 ⦁	Finally, the designed algorithm identifies different stages of a maize from 29JUL19 TO 3AUG19
 
 # Dataset :
