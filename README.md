@@ -33,7 +33,7 @@ Anaconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv
 for example : set PYTHONPATH=C:\Desktop\models;C:\Desktop\models\research;C:\Desktop\models\research\slim (wont run if not executed)
 
 # Run Sequence :
-1. Copy all .ipynb to 'models' folder before doing anything
+1. Copy all .ipynb to 'models\research\object_detection' folder before doing anything
 2. Run the .ipynb files in the following sequence 
 
    object_detection_maize.ipynb --> calculate_iou.ipynb --> generate_bbox_crops.ipynb --> calculate_canopy_cover.ipynb -->           visualize_canopy_growth.ipynb
