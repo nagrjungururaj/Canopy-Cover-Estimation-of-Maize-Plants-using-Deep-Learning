@@ -17,6 +17,8 @@ The overall goal of the problem is to identify the Canopy Cover Percentage from 
 
 Anaconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv-python
 
+# Download models.zip from here : https://www.dropbox.com/s/w65vb29iki0ylbx/models.zip?dl=0
+
 # Testing on your images
 1. Download models.zip and extract models folder.
 2. Capture images from a maize field using a smartphone or drone
