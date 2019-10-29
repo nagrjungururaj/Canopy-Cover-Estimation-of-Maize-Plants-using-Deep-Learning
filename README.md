@@ -16,7 +16,8 @@ Anaconda, pillow, lxml, Cython, contextlib2, jupyter, matplotlib, pandas, opencv
 1. Capture images from a maize field using a smartphone or drone
 2. Use labelImg tool to label your images. Tool can be found here : https://github.com/tzutalin/labelImg
 3. Place the images in 'images' folder under 'models'
-4. Trained model is already present in 'training' folder 
+4. Trained model is already present in 'training' folder
+5. Place the images you want to test from your set in 'test_img' folder
 
 # Setup : 
 1. Go to models\research\object_detection
