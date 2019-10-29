@@ -1,5 +1,10 @@
 # Canopy-Cover-Estimation-of-Maize-Plants-using-Deep-Learning
 
+# Copyright : 
+
+(Very Important!)
+The image data is solely owned and distributed by Digite Inc. and any usage could lead to severe voilations of company's copyright. For usage contact Digite Inc. (https://www.digite.com/)
+
 # Goal : 
 The overall goal of the problem is to identify the Canopy Cover Percentage from a given picture / image using deep learning. Further, the problem has intermediate goals as below:
 ⦁	From a given image, the designed algorithm is able to differentiate a maize plant from a weed plant
@@ -38,8 +43,3 @@ RMSE F3 : 0.14613046722087242
 RMSE F7 : 0.9559942436130704  
 
 Note that the RMSE for F7 is quite large due to the rapid growth and overlap of bounding boxes predicted from the algorithm for the end of a season of peak period.
-
-# Data Copyright : 
-
-(Very Important!)
-The image data is solely owned and distributed by Digite Inc. and any usage could lead to severe voilations of company's copyright. For usage contact Digite Inc. (https://www.digite.com/)
